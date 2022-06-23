@@ -1,2 +1,2 @@
 # syzomnia-el.github.io
-My Personal Blog
+El's Personal Blog
