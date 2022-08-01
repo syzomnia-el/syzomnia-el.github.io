@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[755],{4313:e=>{e.exports=JSON.parse('{"label":"\u5173\u4e8e\u6211","permalink":"/tags/\u5173\u4e8e\u6211","allTagsPath":"/tags","count":1,"items":[{"id":"intro","title":"","description":"Syzomnia El\u7684\u4e2a\u4eba\u535a\u5ba2","permalink":"/"}]}')}}]);
