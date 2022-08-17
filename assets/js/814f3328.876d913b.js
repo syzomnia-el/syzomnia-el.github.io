@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"\u6240\u6709\u6587\u7ae0","items":[{"title":"osu!searcher \u4f7f\u7528\u6559\u7a0b","permalink":"/blog/osu-searcher-guidelines"}]}')}}]);
