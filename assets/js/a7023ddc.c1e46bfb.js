@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[713],{3457:l=>{l.exports=JSON.parse('[{"label":"\u5de5\u5177","permalink":"/blog/tags/\u5de5\u5177","count":1},{"label":"osu!","permalink":"/blog/tags/osu","count":1},{"label":"Python","permalink":"/blog/tags/python","count":1}]')}}]);
