@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"\u6700\u8fd1\u6587\u7ae0","items":[{"title":"++i \u4e0e i++ \u7684\u533a\u522b","permalink":"/blog/2022/09/27/differences-between-pre-plus-and-post-plus"}]}')}}]);
