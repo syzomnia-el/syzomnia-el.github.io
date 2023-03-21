@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[5774],{1648:a=>{a.exports=JSON.parse('{"label":"\u5927\u6570\u8fd0\u7b97","permalink":"/blog/tags/\u5927\u6570\u8fd0\u7b97","allTagsPath":"/blog/tags","count":1}')}}]);
