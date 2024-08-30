@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[9858],{5516:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

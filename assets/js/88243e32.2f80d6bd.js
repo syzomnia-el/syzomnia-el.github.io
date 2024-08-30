@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[897],{7987:a=>{a.exports=JSON.parse('{"label":"PTA","permalink":"/blog/tags/pta","allTagsPath":"/blog/tags","count":4}')}}]);

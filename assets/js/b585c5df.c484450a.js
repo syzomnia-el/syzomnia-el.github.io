@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[2236],{615:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/\u6392\u5e8f\u7b97\u6cd5","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

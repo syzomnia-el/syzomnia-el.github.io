@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[9633],{1364:a=>{a.exports=JSON.parse('{"label":"C/C++","permalink":"/blog/tags/c-c","allTagsPath":"/blog/tags","count":6}')}}]);
