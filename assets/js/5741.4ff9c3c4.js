@@ -1,1 +1,0 @@
-(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([[5741],{5741:()=>{}}]);
