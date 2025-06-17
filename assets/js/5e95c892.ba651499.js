@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkel_furnia=self.webpackChunkel_furnia||[]).push([["3432"],{1359:function(e,r,s){s.r(r),s.d(r,{default:()=>f});var u=s(5893);s(7294);var a=s(7026),n=s(9741),c=s(4681),l=s(8790),t=s(4006);function f(e){return(0,u.jsx)(n.FG,{className:(0,a.Z)(c.k.wrapper.docsPages),children:(0,u.jsx)(t.Z,{children:(0,l.H)(e.route.routes)})})}}}]);
